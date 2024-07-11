@@ -1,0 +1,6 @@
+timm
+flash_attn
+einops
+transformers
+pillow
+requests
